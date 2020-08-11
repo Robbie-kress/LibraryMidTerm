@@ -1,0 +1,13 @@
+C:\Users\kress\source\repos\LibraryProject\LibraryProject\obj\Debug\netcoreapp3.1\LibraryProject.csprojAssemblyReference.cache
+C:\Users\kress\source\repos\LibraryProject\LibraryProject\obj\Debug\netcoreapp3.1\LibraryProject.AssemblyInfoInputs.cache
+C:\Users\kress\source\repos\LibraryProject\LibraryProject\obj\Debug\netcoreapp3.1\LibraryProject.AssemblyInfo.cs
+C:\Users\kress\source\repos\LibraryProject\LibraryProject\obj\Debug\netcoreapp3.1\LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\kress\source\repos\LibraryProject\LibraryProject\bin\Debug\netcoreapp3.1\LibraryProject.exe
+C:\Users\kress\source\repos\LibraryProject\LibraryProject\bin\Debug\netcoreapp3.1\LibraryProject.deps.json
+C:\Users\kress\source\repos\LibraryProject\LibraryProject\bin\Debug\netcoreapp3.1\LibraryProject.runtimeconfig.json
+C:\Users\kress\source\repos\LibraryProject\LibraryProject\bin\Debug\netcoreapp3.1\LibraryProject.runtimeconfig.dev.json
+C:\Users\kress\source\repos\LibraryProject\LibraryProject\bin\Debug\netcoreapp3.1\LibraryProject.dll
+C:\Users\kress\source\repos\LibraryProject\LibraryProject\bin\Debug\netcoreapp3.1\LibraryProject.pdb
+C:\Users\kress\source\repos\LibraryProject\LibraryProject\obj\Debug\netcoreapp3.1\LibraryProject.dll
+C:\Users\kress\source\repos\LibraryProject\LibraryProject\obj\Debug\netcoreapp3.1\LibraryProject.pdb
+C:\Users\kress\source\repos\LibraryProject\LibraryProject\obj\Debug\netcoreapp3.1\LibraryProject.genruntimeconfig.cache
